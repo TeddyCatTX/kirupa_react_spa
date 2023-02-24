@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirupa_react_spa/static/css/main.2e582265.css",
+    "main.js": "/kirupa_react_spa/static/js/main.83e8c3dd.js",
+    "index.html": "/kirupa_react_spa/index.html",
+    "main.2e582265.css.map": "/kirupa_react_spa/static/css/main.2e582265.css.map",
+    "main.83e8c3dd.js.map": "/kirupa_react_spa/static/js/main.83e8c3dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e582265.css",
+    "static/js/main.83e8c3dd.js"
+  ]
+}
